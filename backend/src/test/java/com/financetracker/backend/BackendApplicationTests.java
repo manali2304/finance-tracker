@@ -9,5 +9,7 @@ class BackendApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	// dummy comment
 
 }
